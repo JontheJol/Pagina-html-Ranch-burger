@@ -37,6 +37,29 @@ assets/bg-arrow.png
 assets/bg-arrows-color.png
 assets/bg-arrows-tramsparnt.png
 assets/complete-logo.PNG
+assets/crown_logo_white.png
+assets/icon-logo-azul-claro.png
+assets/crown_logo.png
+assets/main-logo.png
+assets/arroba-clara.png
+assets/logotipo.png
+assets/join-us.PNG
+assets/Austin_kids.jpg
+assets/1-person.png
+assets/molly-burgers.png
+assets/steer.jpg
+assets/austin molly door.jpg
+assets/logo-complete.png
+assets/partner-darigold.png
+assets/partner-CMIorchards.png
+assets/partner-macDonaldMeat.png
+assets/partner-UA.png
+assets/partner-BEEF.png
+assets/partner-DAIRY.png
+assets/partner-honey.png
+assets/partner-nurst.png
+assets/CPA_Blue_NWCityArenaLight_DronePhoto2022.jpg
+assets/logo_dpn.png
 
 # Ignore unused follows
 assets/follows/follow-1.png
@@ -49,9 +72,27 @@ assets/follows/follow-13.png
 assets/follows/follow-16.jpg
 assets/follows/follow-19.jpeg
 assets/follows/follow-23.png
+assets/follows/follow-4.png
+assets/follows/follow-9.jpg
+assets/follows/follow-5.png
+assets/follows/follow-10.jpeg
+assets/follows/follow-11.JPG
+assets/follows/follow-12.jpeg
+assets/follows/follow-15.jpeg
+assets/follows/follow-14.jpeg
+assets/follows/follow-22.png
+assets/follows/follow-17.jpg
+assets/follows/follow-21.png
+assets/follows/follow-18.jpeg
+assets/follows/follow-20.jpeg
 
 # Ignore unused hamburgers
 assets/hamburgers/Hamburger-5-azul-claro.png
+assets/hamburgers/Hamburger-1.png
+assets/hamburgers/Hamburger-2.png
+assets/hamburgers/Hamburger-3.png
+assets/hamburgers/Hamburger-4.png
+assets/hamburgers/Hamburger-6.png
 
 # Ignore specific plugins
 plugins/fullPage.js-msater/
